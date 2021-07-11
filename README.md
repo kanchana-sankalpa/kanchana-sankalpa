@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kanchana-sankalpa
 - 👀 I’m interested in language ,social and computer interations..
 - 🌱 I’m currently learning a lot without being a specialist.
-- 💞️ I’m looking to collaborate on multi aspelct development of Sri Lanka.
+- 💞️ I’m looking to collaborate with multiple aspects for the betterment of Sri Lanka.
 - 📫 How to reach me : kanchana.genotec@gmail.com
 
 <!---
