@@ -2,7 +2,7 @@
 - 👀 I’m interested in language ,social and computer interations..
 - 🌱 I’m currently learning a lot without being a specialist.
 - 💞️ I’m looking to collaborate on multi aspelct development of Sri Lanka.
-- 📫 How to reach me : mdksankalpa@gmail.com
+- 📫 How to reach me : kanchana.genotec@gmail.com
 
 <!---
 kanchana-sankalpa/kanchana-sankalpa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
